@@ -6,10 +6,9 @@ public class Beca {
 
     String msg = "";
 
-    public Beca(Utils utilsMockeado,Helpers helpersMockeado){
+    public Beca(Utils utilsMockeado){
 
         utils = utilsMockeado;
-        helpers = helpersMockeado;
 
 
     }
